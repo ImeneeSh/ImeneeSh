@@ -15,7 +15,8 @@
 
 ## 💡 Skills & Technologies  
 
-🔹 **Languages**: C, Java, JavaScript, HTML, CSS  
+🔹 **Languages**: C, Java, JavaScript, HTML, CSS 
+🔹 **Editors**: VScode, CodeBlocks, NetBeans, Sublime Text3
 🔹 **Frameworks & Tools**: Git/GitHub, SDL2  
 🔹 **Databases**: SQL  
 🔹 **Concepts**: Algorithms, Graph Theory, Data Structures  
