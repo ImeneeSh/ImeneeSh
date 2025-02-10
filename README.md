@@ -51,6 +51,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImeneeSh&theme=tokyonight" width="400">
 </div>
 
+<div align="center">
+  <img src="https://wakatime.com/share/@0c4f3a1c-3c62-4242-96f2-dedadfb79f7b/5ebf6818-a8c6-427a-a971-4e1b6ff0cf13.svg" width="400" height="150">
+  <img src="https://wakatime.com/share/@0c4f3a1c-3c62-4242-96f2-dedadfb79f7b/3876cdea-1299-4f14-bf1a-66cec744244e.svg" width="400" height="150">
+</div>
+
 ---
 
 ## 📫 Contact Me  
