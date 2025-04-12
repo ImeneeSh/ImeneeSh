@@ -17,15 +17,23 @@
 
 ## 💡 Skills & Technologies  
 
+🔹 **Oprerating System**:
+
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+
 🔹 **Languages**:  
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)  
 
 🔹 **Editors**:  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)  ![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide)  ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-FF9800?style=flat-square&logo=sublime-text) ![CodeBlocks](https://img.shields.io/badge/-Code::Blocks-00A1F1?style=flat-square&logo=windows-terminal&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)  ![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide)  ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-FF9800?style=flat-square&logo=sublime-text) ![CodeBlocks](https://img.shields.io/badge/-Code::Blocks-00A1F1?style=flat-square&logo=windows-terminal&logoColor=white) [![WebStorm](https://img.shields.io/badge/WebStorm-000?logo=webstorm&logoColor=fff)](#) 
+
+🔹 **Design**: 
+
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#) 
   
 
 🔹 **Frameworks & Tools**:  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  ![SDL2](https://img.shields.io/badge/-SDL2-4E7CBF?style=flat-square&logo=opengl)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  ![SDL2](https://img.shields.io/badge/-SDL2-4E7CBF?style=flat-square&logo=opengl) [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)
 
 🔹 **Databases**:  
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
@@ -37,7 +45,7 @@
 ## 🚀 Projects & Collaborations  
 
 🌟 **Currently working on:**  
- 🔹 Developing an **Achi board game in C using SDL2** 🎮  
+ 🔹 Developing an **ALexandria website - University's Library ** 🎮  
  🔹 Exploring **GitHub advanced features and best practices** 🛠️  
 
 📌 **Open to collaborations!** I’d love to contribute to exciting projects, especially in **web development or C/Java programming**.  
@@ -49,6 +57,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ImeneeSh&show_icons=true&theme=tokyonight" width="400">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImeneeSh&theme=tokyonight" width="400">
+  <figure><embed src="https://wakatime.com/share/@0c4f3a1c-3c62-4242-96f2-dedadfb79f7b/9ba56608-fe18-4c5b-b8ff-015c53e1c816.svg"></embed></figure>
 </div>
 ---
 
